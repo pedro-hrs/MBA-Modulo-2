@@ -1,6 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-/todo-list/node_modules
-/jogo-da-velha/node_modules
-/modulo-2/node_modules
-/app-selecao/node_modules
