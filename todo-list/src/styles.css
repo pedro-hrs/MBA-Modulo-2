@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+.btn-delete{
+  padding: 5px 10px;
+  border: none;
+  background-color: rgb(46, 46, 46);
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn-add{
+  padding: 5px 10px;
+  border: none;
+  color: rgb(244, 244, 244);
+  background-color: rgb(40, 40, 40);
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.input[checkbox]{
+  cursor: pointer;
+}
+
+.input{
+  height: 20px;
+}
+.task-description{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  height: 25px;
+  background-color: rgb(237, 237, 237);
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+.task-description p {
+  font-size: 1em;
+}
+table {  
+  border-spacing:  10px;
+  border-collapse: collapse;
+}
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
