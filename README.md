@@ -1,7 +1,7 @@
-# MBA Frontend - Módulo 1
+# MBA Frontend - Módulo 2
 ## Design para Front-end
 
-Este repositório é dedicado aos projetos realizados durante o módulo 1 do meu MBA em Desenvolvimento Front-end. Neste módulo, tive a oportunidade de aprofundar meus conhecimentos em Angular JS. Alguns dos tópicos que aprendi incluem estruturação de páginas HTML, estilização com CSS, interações e dinamismo com JavaScript, além de utilização do framework Bootstrap para criação de layouts responsivos
+Este repositório é dedicado aos projetos realizados durante o módulo 1 do meu MBA em Desenvolvimento Front-end. Neste módulo, tive a oportunidade de aprofundar meus conhecimentos em Angular JS.
 
 ## Stacks utilizadas
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
