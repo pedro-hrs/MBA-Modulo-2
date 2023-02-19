@@ -1,5 +1,5 @@
 # MBA Frontend - Módulo 2
-## Design para Front-end
+## Angular
 
 Este repositório é dedicado aos projetos realizados durante o módulo 1 do meu MBA em Desenvolvimento Front-end. Neste módulo, tive a oportunidade de aprofundar meus conhecimentos em Angular JS.
 
